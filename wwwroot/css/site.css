@@ -1,0 +1,53 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color:whitesmoke
+}
+
+.lavanda {
+    color: #d1c2db;
+    background-color: #eddef7;
+}
+
+.rosa {
+    color: white;
+    background-color: #ff7070;
+}
+
+.azul {
+    color: #b0c1d2;
+    background-color: #c9ddf2;
+}
+
+.verde {
+    color: #9fb89a;
+    background-color: #d0f2c9;
+}
+
+.bege {
+    background-color: #f3e8d6;
+}
+
+.formula1 {
+    color: white;
+    background-color: #fc3535;
+}
+
+a:hover{
+    background-color:darkgrey
+}
+
